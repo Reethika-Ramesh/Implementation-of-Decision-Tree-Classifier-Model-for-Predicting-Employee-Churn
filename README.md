@@ -50,10 +50,27 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-![image](https://user-images.githubusercontent.com/98681990/174658022-29ae0a9f-da38-45eb-ba6c-09faec786e63.png)
-![image](https://user-images.githubusercontent.com/98681990/174658179-9cf5007f-5d97-4154-b6c9-476598393247.png)
-![image](https://user-images.githubusercontent.com/98681990/174658202-87c3f92a-16f3-4fa9-aa23-0bdffbce913e.png)
+Output:
+HEAD:
+image
 
+INFO:
+image
+
+ISNULL:
+image
+
+LEFT:
+image
+
+HEAD USING LABELENCODER:
+image
+
+ACCURACY:
+image
+
+PREDICT:
+image
 
 
 ## Result:
