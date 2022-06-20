@@ -51,31 +51,31 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ## Output:
 
-HEAD:
+## HEAD:
 
 ![image](https://user-images.githubusercontent.com/98681990/174658785-dbeb43ad-725b-44e9-88d1-1971e6b605fd.png)
 
-INFO:
+## INFO:
 
 ![image](https://user-images.githubusercontent.com/98681990/174659151-628fca92-47fa-4abc-ab4a-2aa82452d9f3.png)
 
-ISNULL:
+## ISNULL:
 
 ![image](https://user-images.githubusercontent.com/98681990/174659210-dfa89fd7-a2ac-45ce-b1ed-2a6e556b6b91.png)
 
-LEFT:
+## LEFT:
 
 ![image](https://user-images.githubusercontent.com/98681990/174659236-28bfb25c-e1e1-4906-8fc1-63c48b85ac2a.png)
 
-HEAD USING LABELENCODER:
+## HEAD USING LABELENCODER:
 
 ![image](https://user-images.githubusercontent.com/98681990/174659261-6ae628e0-828e-4c2e-95ba-602b70d14b36.png)
 
-ACCURACY:
+## ACCURACY:
 
 ![image](https://user-images.githubusercontent.com/98681990/174659305-84fd74dd-13ee-4ef2-b0ef-e540c59a6354.png)
 
-PREDICT:
+## PREDICT:
 
 ![image](https://user-images.githubusercontent.com/98681990/174659331-e6df8723-51b2-4988-9fbe-9cfd012cadc8.png)
 
